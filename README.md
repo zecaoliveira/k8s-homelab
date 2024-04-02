@@ -9,6 +9,7 @@ Esta parte eu dedico a todos os profissionais que dedicam seu tempo para compart
 
 Sites que estou usando para compilar o meu homelab:
 
+- Deploy a Production Ready Kubernetes Cluster: https://kubespray.io/#/?id=deploy-a-production-ready-kubernetes-cluster
 - https://austinsnerdythings.com/2022/04/25/deploying-a-kubernetes-cluster-within-proxmox-using-ansible/
 - https://blog.marcolancini.it/2021/blog-kubernetes-lab-baremetal/
 - https://medium.com/@ebrar/how-to-install-kubernetes-on-fedora-coreos-with-using-kubespray-9a6e3a853436
