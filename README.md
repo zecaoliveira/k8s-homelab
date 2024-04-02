@@ -35,7 +35,15 @@ Este documento está em construção então se sentir falta de alguma coisa é p
 
 ### Etapas a serem percorridas
 
-Link do meu material em que usei o site do Austin para automatizar o processo de criação de máquinas no Proxmox:
-- https://github.com/zecaoliveira/k8s-fcos-proxmox/tree/main
+Primeiro: configurar o processo de automação da criação de máquinas virtuais no Proxmox usando cloud-init e terraform: 
+- https://github.com/zecaoliveira/k8s-fcos-proxmox
 
-Referência: Deploying Kubernetes VMs in Proxmox with Terraform: https://austinsnerdythings.com/2021/09/23/deploying-kubernetes-vms-in-proxmox-with-terraform/
+> Referência:
+> - By Austins (Nerdy Things) -> https://austinsnerdythings.com/2021/09/23/deploying-kubernetes-vms-in-proxmox-with-terraform/
+
+Segundo: configurar o processo de automação da criação do cluster Kubernetes usando o kubespray, ansible e python3: 
+- https://github.com/zecaoliveira/kubespray-pve-k8s
+
+> Referência:
+> - By Pradeep Kumar ->https://www.linuxtechi.com/install-kubernetes-using-kubespray/
+> - By Ebrar Leblebici -> https://medium.com/@ebrar/how-to-install-kubernetes-on-fedora-coreos-with-using-kubespray-9a6e3a853436
