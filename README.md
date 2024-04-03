@@ -47,3 +47,5 @@ Segundo: configurar o processo de automação da criação do cluster Kubernetes
 > Referência:
 > - By Pradeep Kumar ->https://www.linuxtechi.com/install-kubernetes-using-kubespray/
 > - By Ebrar Leblebici -> https://medium.com/@ebrar/how-to-install-kubernetes-on-fedora-coreos-with-using-kubespray-9a6e3a853436
+
+Terceiro: Configurar um service LoadBalancer para o cluster K8S em Homelab: https://github.com/zecaoliveira/k8s-metallb-homelab 
